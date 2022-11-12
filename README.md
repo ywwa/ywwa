@@ -30,5 +30,3 @@
   <img src="https://profile-counter.glitch.me/yuukilla/count.svg?"  />
 </div>
 
-###
-Profile Readme Generator
