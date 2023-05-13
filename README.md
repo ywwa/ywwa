@@ -6,9 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"  />
-
-###
+<img align="right" height="150" src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"  />
 
 I'm Gabriel from Latvia<br><br>- 🔭 I’m currently working on [yuukilla/ewtapp](https://github.com/yuukilla/ewtapp)<br>- 📚 I'm currently learning Typescript & React<br>- ⚡ In my free time I waste time in video games<br>- 👨‍💻 Switched from VSCode to Nvim with [NvChad](https://nvchad.com) config
 
