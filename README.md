@@ -8,7 +8,7 @@
 
 <img align="right" height="150" src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"  />
 
-I'm Gabriel from Latvia<br><br>- 🔭 I’m currently working on [yuukilla/ewtapp](https://github.com/yuukilla/ewtapp)<br>- 📚 I'm currently learning Typescript & React<br>- ⚡ In my free time I waste time in video games<br>- 👨‍💻 Switched from VSCode to Nvim with [NvChad](https://nvchad.com) config
+I'm Gabriel from Latvia<br><br>- 📚 I'm currently learning Typescript & React<br>- ⚡ In my free time I waste time in video games<br>- 👨‍💻 Switched from VSCode to Nvim with [NvChad](https://nvchad.com) config
 
 ###
 
@@ -33,11 +33,11 @@ I'm Gabriel from Latvia<br><br>- 🔭 I’m currently working on [yuukilla/ewtap
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
