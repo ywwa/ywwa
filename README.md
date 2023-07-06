@@ -19,8 +19,8 @@ I'm Gabriel from Latvia<br><br>- 📚 I'm currently learning Typescript & React<
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuukilla&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=yuukilla&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=[Y ]M j&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ywwa&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ywwa&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=[Y ]M j&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
