@@ -1,6 +1,3 @@
 <div align="center">
-<img height="400" src="https://cdn3.emoji.gg/emojis/8991-ratspin.gif"  />
+<img height="128" src="https://cdn3.emoji.gg/emojis/3971-pepejuicespin.gif"  />
 </div>
-
-
-\- _to be changed soon_
