@@ -1,4 +1,4 @@
-# Hello! I’m [Your Name] 👋
+# Hello! I’m Gabriel 👋
 
 I’m a full-stack engineer crafting modern web applications and developer tools.
 
