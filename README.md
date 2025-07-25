@@ -7,7 +7,7 @@ I’m a full-stack engineer crafting modern web applications and developer tools
 ## 🔭 Current Projects
 
 - **[EokaGG](https://eoka.gg)** – Real-time leaderboards, player statistics, insights & more for Rust servers and organizations.
-- **pnAPI** – High-performance API wrapper for [PayNow.io](https://paynow.io), maintained at [ywwa/pnapi](https://github.com/ywwa/pnapi) (_Out-of-date_).
+- **[PayLater](https://github.com/ywwa/paylater)** – typescript SDK for [PayNow](https://paynow.gg) service
 
 ---
 
