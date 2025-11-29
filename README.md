@@ -7,7 +7,6 @@ I’m a full-stack engineer crafting modern web applications and developer tools
 ## 🔭 Current Projects
 
 - **[EokaGG](https://eoka.gg)** – Real-time leaderboards, player statistics, insights & more for Rust servers and organizations.
-- **[PayLater](https://github.com/ywwa/paylater)** – typescript SDK for [PayNow](https://paynow.gg) service
 
 ---
 
